@@ -48,6 +48,8 @@ _ & _[Months](https://github.com/Devisasikala-Analyst/Excel-Sales-and-Finance-An
 
    **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/Devisasikala-Analyst/Excel-Sales-and-Finance-Analytics/blob/62acddb9c80b8ed27971b43d041db9da6af46639/P%26L%20Market.pdf)
 
+  **3**. Create GM% by Quarters [GM%(sub_zone)](https://github.com/Devisasikala-Analyst/Excel-Sales-and-Finance-Analytics/blob/62acddb9c80b8ed27971b43d041db9da6af46639/GM%25(sub_zone).pdf)
+
 
 - **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 
