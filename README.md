@@ -5,7 +5,7 @@
 
     **1.** Create a _[Customer_net_sales_performance](https://github.com/Devisasikala-Analyst/Excel-Sales-and-Finance-Analytics/blob/88f712467bf47d2bdc1a615d58f41d8e47e021e3/Customer_net_sales_performance.pdf)
   
-    **2.** Conduct a comprehensive comparison between _[Market_Performance VS Target](https://github.com/Devisasikala-Analyst/Excel-Sales-and-Finance-Analytics/blob/a519ca7963bb96ea4d88c4bc10b460ef3e622dcd/Market_Performane%20VS%20Target.pdf
+    **2.** Conduct a comprehensive comparison between _[Market_Performance VS Target](https://github.com/Devisasikala-Analyst/Excel-Sales-and-Finance-Analytics/blob/a519ca7963bb96ea4d88c4bc10b460ef3e622dcd/Market_Performane%20VS%20Target.pdf)
 
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
