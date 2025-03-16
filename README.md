@@ -3,8 +3,7 @@
 
 - **Project objective:** 
 
-    **1.** Create a _[Customer_net_sales_performance](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_   
-
+    **1.** Create a _[Customer_net_sales_performance](https://github.com/Devisasikala-Analyst/Excel-Sales-and-Finance-Analytics/blob/88f712467bf47d2bdc1a615d58f41d8e47e021e3/Customer_net_sales_performance.pdf)
     **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_
 
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
